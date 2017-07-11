@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BoroughBreweryNeath",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -107,7 +107,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/front-2000x2693.jpg",
