@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BoroughBreweryNeath",
-    "currentPage": "about.html",
+    "currentPage": "beers.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -276,7 +276,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -515,7 +515,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -629,7 +629,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -666,7 +666,7 @@
               "text-align": "center"
             },
             "H2": {
-              "font-size": "84px",
+              "font-size": "80px",
               "text-align": "center"
             },
             "SPAN": {
@@ -764,7 +764,7 @@
                 "overlayOpacity": "0.2",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "NUT RED COKE<br><div><span style=\"font-weight: normal;\"><i>5.4% ABV</i></span></div>",
+                "title": "<br>PIT HEAD PORTER<br><div><span style=\"font-weight: normal;\"><i>5.4% ABV</i></span></div>",
                 "showText": true,
                 "text": "<br>A dark and rich intense Porter with hints of roasted coffee and chocolate, our most treasured creation that is in a class of its own.<br><br>Maris Otter, Crystal, Chocolate Malts and Roasted Barley are blended to give truly outstanding taste to the pallet.<br><br>Not for the feint hearted.&nbsp;<br>",
                 "showButtons": false,
@@ -931,7 +931,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -1100,7 +1100,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
