@@ -222,7 +222,10 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "30px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -276,9 +279,9 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": false
@@ -461,7 +464,10 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "30px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -515,9 +521,9 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": false
@@ -575,7 +581,10 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "30px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -629,9 +638,9 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": false
@@ -773,7 +782,7 @@
             ],
             "fullScreen": true,
             "bgColor": "#a38f84",
-            "showBullets": true
+            "showBullets": false
           },
           "_anchor": "slider3-l",
           "articleLayout": false
@@ -877,7 +886,10 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "30px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -931,9 +943,9 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": false
@@ -1046,7 +1058,10 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "30px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1100,9 +1115,9 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": false

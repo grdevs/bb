@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -411,6 +412,7 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+
 #social-buttons4-k .mbr-section-title,
 #social-buttons4-k .btn-social {
   color: #fff;
@@ -420,6 +422,8 @@ h6,
 }
 #menu-4 .navbar-caption {
   color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
 }
 #menu-4 .navbar-toggler {
   color: #ffffff;
@@ -476,6 +480,7 @@ h6,
 #menu-4 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+
 #form1-9 .form-control-label {
   color: #232323;
 }
@@ -491,6 +496,8 @@ h6,
 }
 #menu-6 .navbar-caption {
   color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
 }
 #menu-6 .navbar-toggler {
   color: #ffffff;
@@ -547,11 +554,14 @@ h6,
 #menu-6 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-6 .navbar-caption {
   color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
 }
 #menu-6 .navbar-toggler {
   color: #ffffff;
@@ -626,11 +636,14 @@ h6,
 #social-buttons4-m .btn-social {
   color: #fff;
 }
+
 #menu-o .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-o .navbar-caption {
   color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
 }
 #menu-o .navbar-toggler {
   color: #ffffff;
@@ -691,11 +704,14 @@ h6,
 #content5-q p {
   color: #fff;
 }
+
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-6 .navbar-caption {
   color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
 }
 #menu-6 .navbar-toggler {
   color: #ffffff;
