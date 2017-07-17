@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BoroughBreweryNeath",
-    "currentPage": "sales.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1344,7 +1344,7 @@
           "_name": "slider3",
           "_params": {
             "autoplay": true,
-            "paddingTop": "2",
+            "paddingTop": "3",
             "paddingBottom": 3,
             "timeout": "4",
             "slides": [
